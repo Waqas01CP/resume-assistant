@@ -49,5 +49,3 @@ Output:
 <img width="743" height="452" alt="image" src="https://github.com/user-attachments/assets/a305e210-df1c-40c1-b045-888fec1e20ac" />
 <img width="757" height="443" alt="image" src="https://github.com/user-attachments/assets/1eb4a504-4290-43b7-ab8a-b3dfc6e8ed59" />
 <img width="744" height="285" alt="image" src="https://github.com/user-attachments/assets/8265246c-6295-441a-8f3f-c0bb3eb5e524" />
-
-Important Note: This is something that i built after my completion of course "ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and i have applied the principles i learned as well as used ChatGPT for the creation of the project. Since the project discussed the basics of Prompt Engineering, therefore, i only built it simple and it does not have many features and functionality. This is my first project on github.
